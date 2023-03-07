@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hanio.peerduck.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+hanio.peerduck.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	581c43e65fb39af4a081d9c5262e3272
+hanio.peerduck.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_a2c1e7fff53a5b93887f5bebe9aad722	6475654247fed0d8aa17a29f057e6c2a%7C%7C1656667930%7C%7C1656664330%7C%7Cdcbaef4ef510f1d6f70dfb33e48e2c21
+
